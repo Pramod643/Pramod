@@ -1,2 +1,2 @@
 I am the master branch
-Now commiting to private branch
+commiting to private branch
